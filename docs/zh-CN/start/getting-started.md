@@ -164,7 +164,7 @@ openclaw pairing approve whatsapp <code>
 
 配对文档：[配对](/channels/pairing)
 
-## 从源代码（开发）
+## 6) 从源代码（开发）
 
 如果你正在开发 OpenClaw 本身，从源代码运行：
 

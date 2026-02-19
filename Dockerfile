@@ -41,7 +41,7 @@ RUN pnpm prune --prod
 # ---------------------------------------------------------------------------
 # Stage 2: runtime
 # ---------------------------------------------------------------------------
-FROM node:22-bookworm-slim
+FROM node:22-bookworm-slim@sha256:5373f1906319b3a1f291da5d102f4ce5c77ccbe29eb637f072b6c7b70443fc36
 
 RUN corepack enable
 
